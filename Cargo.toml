@@ -1,0 +1,12 @@
+[package]
+name = "cow-trie"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kunle Li"]
+description = "Copy-on-Write Trie implementation in Rust"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# parking_lot = "0.12.3"

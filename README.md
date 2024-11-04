@@ -35,4 +35,4 @@ let trie = trie.delete("key1");
 ```
 
 ## TODO
-- [] Add concurrent support.
+- [ ] Add concurrent support.

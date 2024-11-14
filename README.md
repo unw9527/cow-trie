@@ -1,5 +1,5 @@
 # COW-Trie
-This repo implements a key-value store using a copy-on-write trie structure. 
+This repo implements a key-value store using a copy-on-write trie structure in Rust.
 The trie allows efficient retrieval, insertion, and deletion of values associated with variable-length string keys. 
 It basically follows the description in [BusTub Fall 2023 Project 0](https://15445.courses.cs.cmu.edu/fall2023/project0/). 
 Most test cases in this project are also from the BusTub project.
